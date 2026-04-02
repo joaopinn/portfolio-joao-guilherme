@@ -20,11 +20,11 @@ export default function Hero() {
 
       {/* CONTEÚDO CENTRAL */}
       <main className="flex-1 flex flex-col justify-center items-center text-center px-5">
-        <p className="text-[#ccc] text-lg mb-2">Hi, I'm João Guilherme</p>
+        <p className="text-[#ccc] text-lg mb-2">Oi, eu sou João Guilherme</p>
         
         <h1 className="text-6xl font-medium leading-tight mb-8">
-          I'm Full-Stack<br />
-          <span className="italic font-light text-[#aaa]">Developer</span>
+          Sou Desenvolvedor<br />
+          <span className="italic font-light text-[#aaa]">Full-Stack</span>
         </h1>
         
         <button className="bg-transparent text-white border border-[#333] py-3 px-8 rounded-full text-base cursor-pointer transition-all duration-300 hover:bg-[#333]">
